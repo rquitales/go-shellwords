@@ -78,6 +78,7 @@ loop:
 				buf += string(r)
 			} else {
 				escaped = true
+				buf += string(r)
 			}
 			continue
 		}
