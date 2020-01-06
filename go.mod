@@ -1,1 +1,1 @@
-module github.com/mattn/go-shellwords
+module github.com/rquitales/go-shellwords
